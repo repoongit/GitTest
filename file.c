@@ -1,1 +1,1 @@
-main mod
+mod in mod
